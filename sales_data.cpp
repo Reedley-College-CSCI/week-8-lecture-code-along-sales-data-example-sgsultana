@@ -1,3 +1,5 @@
+// My Name
+// Week 8 Demo
 #include <iostream>
 using namespace std;
 int main() {
